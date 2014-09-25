@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="744.09448819"
@@ -24,17 +25,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="375"
-     inkscape:cy="520"
+     inkscape:zoom="0.50838011"
+     inkscape:cx="372.04724"
+     inkscape:cy="526.18109"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="774"
-     inkscape:window-height="553"
-     inkscape:window-x="78"
-     inkscape:window-y="74"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1366"
+     inkscape:window-height="711"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata3029">
     <rdf:RDF>
@@ -53,7 +54,7 @@
      id="layer1">
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"
        x="71.428574"
        y="132.36218"
        id="text3098"
@@ -82,5 +83,27 @@
          x="71.428574"
          y="382.36218"
          id="tspan3112" /></text>
+    <g
+       id="g3324">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3020"
+         y="609.21063"
+         x="152.33626"
+         style="font-size:30.93305397px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans Mono;-inkscape-font-specification:Bitstream Vera Sans Mono"
+         xml:space="preserve"><tspan
+           id="tspan3024"
+           y="609.21063"
+           x="152.33626"
+           sodipodi:role="line">www.shlomifish.org</tspan></text>
+      <image
+         sodipodi:absref="/home/shlomif/Docs/Images/Captioned-Images/Captioned-Image-Confidence/./evilphish-extract-no-glow.png"
+         xlink:href="/home/shlomif/Docs/Images/Captioned-Images/Captioned-Image-Confidence/./evilphish-extract-no-glow.png"
+         width="89.775734"
+         height="89.775734"
+         id="image3120"
+         x="42.875053"
+         y="555.81171" />
+    </g>
   </g>
 </svg>
