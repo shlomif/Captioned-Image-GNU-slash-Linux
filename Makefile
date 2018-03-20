@@ -1,4 +1,4 @@
-SVG = confidence.svg
+SVG = gnu-slash-linux.svg
 PNG = $(SVG).png
 JPEG = $(SVG).jpg
 
@@ -13,4 +13,4 @@ $(JPEG): $(PNG)
 	convert $(PNG) $(JPEG)
 
 upload: all
-	rsync --progress -v -a --inplace $(PNG) $(SVG) *.jpg *.png $(__HOMEPAGE_REMOTE_PATH)/confidence-captioned-image/
+	rsync --progress -v -a --inplace $(PNG) $(SVG) *.jpg *.png $(__HOMEPAGE_REMOTE_PATH)/to-del--gnu-slash-linux--6y7uj3wr7--captioned-image/
