@@ -8,91 +8,91 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="5456"
-   height="8192"
-   id="svg2"
-   sodipodi:version="0.32"
-   inkscape:version="1.0beta1 (a4ee55bc41, 2019-11-15)"
-   version="1.0"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
    sodipodi:docname="gnu-slash-linux.svg"
-   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+   version="1.0"
+   inkscape:version="1.0beta1 (a4ee55bc41, 2019-11-15)"
+   sodipodi:version="0.32"
+   id="svg2"
+   height="8192"
+   width="5456">
   <defs
      id="defs4">
     <filter
-       style="color-interpolation-filters:sRGB"
+       id="filter817"
        inkscape:label="Lightness-Contrast"
-       id="filter817">
+       style="color-interpolation-filters:sRGB">
       <feGaussianBlur
-         stdDeviation="3 3"
+         id="feGaussianBlur815"
          result="fbSourceGraphic"
-         id="feGaussianBlur815" />
+         stdDeviation="3 3" />
       <feColorMatrix
-         result="fbSourceGraphicAlpha"
-         in="fbSourceGraphic"
+         id="feColorMatrix819"
          values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
-         id="feColorMatrix819" />
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
       <feColorMatrix
-         id="feColorMatrix821"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic"
          values="1 0 0 0 -0 0 1 0 0 -0 0 0 1 0 -0 0 0 0 1 0"
-         in="fbSourceGraphic"
-         result="fbSourceGraphic" />
+         id="feColorMatrix821" />
       <feColorMatrix
-         result="fbSourceGraphicAlpha"
-         in="fbSourceGraphic"
+         id="feColorMatrix823"
          values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
-         id="feColorMatrix823" />
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
       <feColorMatrix
-         id="feColorMatrix825"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic"
          values="1 0 0 0.009 -0 0 1 0 0.009 -0 0 0 1 0.009 -0 0 0 0 1 0"
-         in="fbSourceGraphic"
-         result="fbSourceGraphic" />
+         id="feColorMatrix825" />
       <feColorMatrix
-         result="fbSourceGraphicAlpha"
-         in="fbSourceGraphic"
+         id="feColorMatrix827"
          values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
-         id="feColorMatrix827" />
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
       <feColorMatrix
-         id="feColorMatrix829"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic"
          values="1 0 0 0.018 -0 0 1 0 0.018 -0 0 0 1 0.018 -0 0 0 0 1 0"
-         in="fbSourceGraphic"
-         result="fbSourceGraphic" />
+         id="feColorMatrix829" />
       <feColorMatrix
-         result="fbSourceGraphicAlpha"
-         in="fbSourceGraphic"
+         id="feColorMatrix835"
          values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
-         id="feColorMatrix835" />
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
       <feColorMatrix
-         id="feColorMatrix837"
+         in="fbSourceGraphic"
          values="1 0 0 0.408 -0 0 1 0 0.408 -0 0 0 1 0.408 -0 0 0 0 1 0"
-         in="fbSourceGraphic" />
+         id="feColorMatrix837" />
     </filter>
   </defs>
   <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     gridtolerance="10000"
-     guidetolerance="10"
-     objecttolerance="10"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.069580078"
-     inkscape:cx="4734.0867"
-     inkscape:cy="4096"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1680"
-     inkscape:window-height="975"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
+     inkscape:document-rotation="0"
      inkscape:window-maximized="0"
-     inkscape:document-rotation="0" />
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     inkscape:window-y="25"
+     inkscape:window-x="0"
+     inkscape:window-height="975"
+     inkscape:window-width="1680"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="4096"
+     inkscape:cx="4734.0867"
+     inkscape:zoom="0.069580078"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     objecttolerance="10"
+     guidetolerance="10"
+     gridtolerance="10000"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -128,10 +128,10 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
+     transform="translate(4075.8328,4961.3242)"
      id="layer1"
-     transform="translate(4075.8328,4961.3242)">
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
     <image
        sodipodi:absref="/home/shlomif/Docs/Images/Captioned-Images/Captioned-Image-GNU-slash-Linux/14403837230_e46fe6a671_o.jpg"
        xlink:href="14403837230_e46fe6a671_o.jpg"
@@ -142,45 +142,45 @@
        preserveAspectRatio="none"
        id="image929" />
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:240px;line-height:218.889px;font-family:Arial;-inkscape-font-specification:'Arial Black Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="-1339.9812"
-       y="-1461.3467"
-       id="text861"><tspan
-         sodipodi:role="line"
+       id="text861"
+       y="-2653.3916"
+       x="-1324.2781"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:720px;line-height:656.667px;font-family:Arial;-inkscape-font-specification:'Arial Black Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:720px;font-family:Arial;-inkscape-font-specification:'Arial Black Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="-2653.3916"
+         x="-1324.2781"
          id="tspan859"
-         x="-1339.9812"
-         y="-1461.3467"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:240px;font-family:Arial;-inkscape-font-specification:'Arial Black Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Djee-En-You</tspan><tspan
-         sodipodi:role="line"
-         x="-1339.9812"
-         y="-1242.4575"
+         sodipodi:role="line">Djee-En-You</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:720px;font-family:Arial;-inkscape-font-specification:'Arial Black Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="tspan863"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:240px;font-family:Arial;-inkscape-font-specification:'Arial Black Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">-slash</tspan><tspan
-         sodipodi:role="line"
-         x="-1339.9812"
-         y="-1023.5688"
+         y="-1996.7246"
+         x="-1324.2781"
+         sodipodi:role="line">-slash</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:720px;font-family:Arial;-inkscape-font-specification:'Arial Black Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="tspan865"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:240px;font-family:Arial;-inkscape-font-specification:'Arial Black Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">-Linux</tspan><tspan
-         style="stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
+         y="-1340.0576"
+         x="-1324.2781"
+         sodipodi:role="line">-Linux</tspan><tspan
+         id="tspan867"
+         y="-683.39062"
+         x="-1324.2781"
          sodipodi:role="line"
-         x="-1339.9812"
-         y="-804.67969"
-         id="tspan867" /><tspan
-         sodipodi:role="line"
-         x="-1339.9812"
-         y="-585.79053"
+         style="stroke-width:30;stroke-miterlimit:4;stroke-dasharray:none" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:720px;font-family:Arial;-inkscape-font-specification:'Arial Black Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="tspan869"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:240px;font-family:Arial;-inkscape-font-specification:'Arial Black Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Marketing!</tspan><tspan
-         sodipodi:role="line"
-         x="-1339.9812"
-         y="-366.90189"
+         y="-26.723625"
+         x="-1324.2781"
+         sodipodi:role="line">Marketing!</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:720px;font-family:Arial;-inkscape-font-specification:'Arial Black Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="tspan871"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:240px;font-family:Arial;-inkscape-font-specification:'Arial Black Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">You're doing</tspan><tspan
-         sodipodi:role="line"
-         x="-1339.9812"
-         y="-148.01273"
+         y="629.94336"
+         x="-1324.2781"
+         sodipodi:role="line">You're doing</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:720px;font-family:Arial;-inkscape-font-specification:'Arial Black Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="tspan873"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:240px;font-family:Arial;-inkscape-font-specification:'Arial Black Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">it GNU/right!</tspan></text>
+         y="1286.6104"
+         x="-1324.2781"
+         sodipodi:role="line">it GNU/right!</tspan></text>
   </g>
 </svg>
