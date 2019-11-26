@@ -5,7 +5,7 @@ Captioned Image - "GNU/Linux"
 Preview:
 --------
 
-image::./one-does-not-simply-cast-an-american-actress.svg.webp[One does not simply cast an American actress for a Britishwoman role.]
+image::./gnu-slash-linux.svg.webp[Djee-En-You-slash-Linux…Marketing! You’re doing it GNU/right!]
 
 [id="about"]
 About:
@@ -14,7 +14,7 @@ About:
 This repository contains the sources for a captioned image. To view or
 edit it type:
 
-    inkscape ./one-does-not-simply-cast-an-american-actress.svg.webp
+    inkscape ./gnu-slash-linux.svg
 
 To build everything use https://www.gnu.org/software/make/[GNU make] .
 
@@ -28,4 +28,4 @@ https://www.shlomifish.org/[Shlomi Fish].
 Credits:
 --------
 
-The image +14403837230_e46fe6a671_o.jpg+ taken from https://www.flickr.com/photos/math41/14403837230/[Flickr] by Mat Gau under CC-by-sa
+The image +14403837230_e46fe6a671_o.jpg+ taken from https://www.flickr.com/photos/math41/14403837230/[Flickr] by Mat Gau under CC-by-sa.
